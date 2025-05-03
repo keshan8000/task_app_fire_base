@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801102685194",
+    "project_id": "task-fire-base-948a2",
+    "storage_bucket": "task-fire-base-948a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801102685194:android:0a00d1997cca64a8e5ebf3",
+        "android_client_info": {
+          "package_name": "com.example.task_app_fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGFp92Wwz-KUcSckJeiFBtiSicMxtcvk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
